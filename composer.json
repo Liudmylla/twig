@@ -1,0 +1,12 @@
+{
+    "name": "luda/twig",
+    "require": {
+        "twig/twig": "^3.3"
+    },
+    "authors": [
+        {
+            "name": "luda",
+            "email": "liudmyla12@yahoo.fr"
+        }
+    ]
+}
